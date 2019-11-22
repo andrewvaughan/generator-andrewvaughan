@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Andrew Vaughan",
+      "authorEmail": "hello@andrewvaughan.io",
+      "authorUrl": "https://andrewvaughan.io"
+    }
+  }
+}
