@@ -4,9 +4,8 @@
 # Assists with style consistency within editors. Generally enforced with linting.
 # http://EditorConfig.org
 #
-# Maintainer : Andrew Vaughan <hello@andrewvaughan.io>
-# Version    : 1.0.0 (https://semver.org/)
-# Updated    : July 7, 2019
+# @author Andrew Vaughan <hello@andrewvaughan.io>
+# @since  2019-07-07
 ######################################################################################################################
 
 #
