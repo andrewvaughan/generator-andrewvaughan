@@ -22,7 +22,7 @@ Please report security bugs in third-party modules to the person or team maintai
 ### Node Security Project
 
 As this is a node-based project, you can also report a vulnerability through the
-[Node Security Project][node-security].
+[Node Security Project][node-security] (now npm.js).
 
 ## Disclosure Policy
 
@@ -52,5 +52,5 @@ If you have suggestions on how this process could be improved please submit a Pu
 
 [github-alerts]: https://help.github.com/en/github/managing-security-vulnerabilities/about-security-alerts-for-vulnerable-dependencies
 [gitter]:        https://gitter.im/andrewvaughan/generator
-[node-security]: https://nodesecurity.io/report
+[node-security]: https://docs.npmjs.com/reporting-a-vulnerability-in-an-npm-package
 [travisci]:      https://travis-ci.org
