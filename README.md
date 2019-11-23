@@ -128,7 +128,7 @@ Effective: November 22, 2019
 [badge-coverage]:     https://coveralls.io/repos/github/andrewvaughan/generator-andrewvaughan/badge.svg?branch=develop
 [badge-dependencies]: https://david-dm.org/andrewvaughan/generator-andrewvaughan.svg
 [badge-license]:      http://img.shields.io/badge/license-MIT-blue.svg?style=flat
-[badge-version]:      http://img.shields.io/badge/version-1.0.0-blue.svg?style=flat
+[badge-version]:      http://img.shields.io/badge/version-v1.0.0-blue.svg?style=flat
 
 [ci-coveralls]:       https://coveralls.io/github/andrewvaughan/generator-andrewvaughan?branch=develop
 [ci-daviddm]:         https://david-dm.org/andrewvaughan/generator-andrewvaughan
