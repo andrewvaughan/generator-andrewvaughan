@@ -1,6 +1,7 @@
 {
   "name": "generator-andrewvaughan",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "private": true,
   "description": "Generate a project styled after Andrew Vaughan's standards",
   "homepage": "https://github.com/andrewvaughan",
   "author": {
