@@ -1,10 +1,24 @@
-language: node_js
+######################################################################################################################
+# Defines continuous integration and test framework settings for Travis-CI.
+#
+# @link https://travis-ci.org/andrewvaughan/generator-andrewvaughan
+#
+# @author Andrew Vaughan <hello@andrewvaughan.io>
+# @since  2019-11-22
+######################################################################################################################
+
+---
+language : node_js
+
+# NVM aliases for Node.js versions, including the latest and specific prior-versions
 node_js:
-  - '>=13.1.0'
+  - node
   - v13
   - v12
   - v10
   - v8
-  - v6
-  - v4
-after_script: cat ./coverage/lcov.info | coveralls
+  #- v6
+  #- v4
+
+# Send code coverage details to coveralls.io for reporting
+after_script : cat ./coverage/lcov.info | coveralls
