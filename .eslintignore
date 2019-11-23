@@ -1,2 +1,11 @@
+######################################################################################################################
+# Files, directories, and patterns that the ESLint linting tool should ignore.
+#
+# @link https://eslint.org/docs/user-guide/configuring#eslintignore
+#
+# @author Andrew Vaughan <hello@andrewvaughan.io>
+# @since  2019-11-22
+######################################################################################################################
+
 coverage
 **/templates
