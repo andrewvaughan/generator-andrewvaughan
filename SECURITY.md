@@ -48,7 +48,7 @@ If you have suggestions on how this process could be improved please submit a Pu
 
 
 
-[lead-email]:    mailto:hello@andrewvaughan.io?subject=GitHub+generator-andrewvaughan+Security+Report
+[lead-email]:    mailto:hello@andrewvaughan.io?subject=GitHub%20generator-andrewvaughan%20Security%20Report
 
 [github-alerts]: https://help.github.com/en/github/managing-security-vulnerabilities/about-security-alerts-for-vulnerable-dependencies
 [gitter]:        https://gitter.im/andrewvaughan/generator
